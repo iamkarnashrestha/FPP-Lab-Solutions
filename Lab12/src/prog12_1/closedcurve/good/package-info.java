@@ -1,0 +1,1 @@
+package prog12_1.closedcurve.good;
